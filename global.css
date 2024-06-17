@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-bebas-neue: "Bebas Neue";
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-13xl: 2rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-77xl: 6rem;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-sm: 14px;
+}

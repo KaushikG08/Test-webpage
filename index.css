@@ -1,0 +1,196 @@
+.first-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 94.5rem;
+  height: 81.625rem;
+  object-fit: cover;
+}
+.farm,
+.plate {
+  position: absolute;
+  top: 14.563rem;
+  left: 5rem;
+}
+.plate {
+  top: 21.063rem;
+  left: 25rem;
+}
+.one-stop-agritech {
+  position: absolute;
+  top: 19.125rem;
+  left: 47rem;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 42.813rem;
+  height: 9.688rem;
+}
+.use-case-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(106.4px);
+  border-radius: 37px;
+  background-color: rgba(255, 255, 255, 0.03);
+  width: 90.938rem;
+  height: 44.188rem;
+}
+.ai-use-cases {
+  position: absolute;
+  top: 1.938rem;
+  left: calc(50% - 116.5px);
+  font-size: 2.5rem;
+  font-family: var(--font-segoe-ui);
+}
+.demand-forecasting {
+  position: absolute;
+  top: 5.063rem;
+  left: calc(50% - 81.15px);
+  font-weight: 600;
+  display: inline-block;
+  width: 9.125rem;
+  height: 3.375rem;
+}
+.group-child {
+  position: absolute;
+  top: 1.063rem;
+  left: 0;
+  border-radius: var(--br-sm);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 11.313rem;
+  height: 11.313rem;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 10.25rem;
+  width: 2.144rem;
+  height: 2.144rem;
+}
+.demand-forecasting-parent {
+  width: 12.394rem;
+  position: relative;
+  height: 12.375rem;
+}
+.route {
+  margin: 0;
+}
+.ai-chatbot-assistance-container,
+.route-optimization {
+  position: absolute;
+  top: 5.063rem;
+  left: calc(50% - 85.15px);
+  font-weight: 600;
+  display: inline-block;
+  width: 9.563rem;
+  height: 3.375rem;
+}
+.ai-chatbot-assistance-container {
+  top: 3.875rem;
+  height: 5.75rem;
+}
+.group-parent,
+.use-case-inner {
+  position: absolute;
+  width: 88.25rem;
+}
+.group-parent {
+  top: 0;
+  left: calc(50% - 706px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.75rem;
+}
+.use-case-inner {
+  top: 7.813rem;
+  left: calc(50% - 705.5px);
+  height: 12.375rem;
+}
+.farm2plate-erp-is {
+  position: absolute;
+  top: 26.75rem;
+  left: calc(50% - 636.5px);
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 79.688rem;
+  height: 9.938rem;
+}
+.use-case {
+  position: absolute;
+  top: 37.438rem;
+  left: 1.75rem;
+  width: 90.938rem;
+  height: 44.188rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.the-company {
+  position: relative;
+}
+.header-menu {
+  position: absolute;
+  top: 0.563rem;
+  left: 46rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.812rem;
+}
+.title-name {
+  position: absolute;
+  top: 1rem;
+  left: 5rem;
+  font-size: 1.25rem;
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.image-3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3.438rem;
+  height: 3.438rem;
+  object-fit: cover;
+}
+.header-child {
+  position: absolute;
+  top: 0.5rem;
+  left: 86.625rem;
+  border-radius: 7px;
+  background-color: #1e1b8f;
+  width: 2.313rem;
+  height: 2.313rem;
+}
+.header,
+.header-item {
+  position: absolute;
+  top: 1.125rem;
+  left: 87.25rem;
+  width: 1.169rem;
+  height: 1.113rem;
+}
+.header {
+  top: 2.438rem;
+  left: 3.125rem;
+  width: 88.938rem;
+  height: 3.438rem;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-bebas-neue);
+}
+.first-section {
+  width: 100%;
+  position: relative;
+  height: 81.625rem;
+  text-align: center;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
