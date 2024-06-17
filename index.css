@@ -14,7 +14,13 @@
 }
 .plate {
   top: 21.063rem;
-  left: 25rem;
+  left: 27rem;
+}
+.farm-2{
+position: absolute;
+  left: 17.2rem;
+  top: -20rem;
+  font-size: 24rem;
 }
 .one-stop-agritech {
   position: absolute;
